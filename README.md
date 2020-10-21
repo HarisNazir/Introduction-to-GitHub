@@ -5,4 +5,4 @@ Sign up [here](https://studentambassadors.com)
 This is a repo for the Microsoft Learn Student Ambassadors Event for an Introduction to GitHub
 
 ## Contributers:
-- Haris Nazir
+- Haris Nazir  [Email Me!](mailto:haris.nazir@studentambassadors.com)
